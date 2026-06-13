@@ -1,0 +1,310 @@
+﻿GeographyKey,City,State,CountryRegion,Continent
+1,Spokane,Washington,United States,North America
+2,Bellflower,California,United States,North America
+3,Beaverton,Oregon,United States,North America
+4,Walla Walla,Washington,United States,North America
+5,San Gabriel,California,United States,North America
+6,Lincoln Acres,California,United States,North America
+7,Redmond,Washington,United States,North America
+8,Bellingham,Washington,United States,North America
+9,Newport Beach,California,United States,North America
+10,Seattle,Washington,United States,North America
+11,Everett,Washington,United States,North America
+12,Burbank,California,United States,North America
+13,San Francisco,California,United States,North America
+14,Yakima,Washington,United States,North America
+15,Burlingame,California,United States,North America
+16,Berkeley,California,United States,North America
+17,Grossmont,California,United States,North America
+18,Lakewood,California,United States,North America
+19,San Diego,California,United States,North America
+20,Oakland,California,United States,North America
+21,San Carlos,California,United States,North America
+22,Fremont,California,United States,North America
+23,Mill Valley,California,United States,North America
+24,Chula Vista,California,United States,North America
+25,Oregon City,Oregon,United States,North America
+26,West Covina,California,United States,North America
+27,Santa Cruz,California,United States,North America
+28,Colma,California,United States,North America
+29,Burien,Washington,United States,North America
+30,Concord,California,United States,North America
+31,National City,California,United States,North America
+32,Torrance,California,United States,North America
+33,Palo Alto,California,United States,North America
+34,Redwood City,California,United States,North America
+35,Woodland Hills,California,United States,North America
+36,Lemon Grove,California,United States,North America
+37,Spring Valley,California,United States,North America
+38,Santa Monica,California,United States,North America
+39,Los Angeles,California,United States,North America
+40,Imperial Beach,California,United States,North America
+41,Beverly Hills,California,United States,North America
+42,Downey,California,United States,North America
+43,La Jolla,California,United States,North America
+44,El Cajon,California,United States,North America
+45,Coronado,California,United States,North America
+46,Daly City,California,United States,North America
+47,Marysville,Washington,United States,North America
+48,W. Linn,Oregon,United States,North America
+49,Baytown,Texas,United States,North America
+50,Chicago,Illinois,United States,North America
+51,Worcester,Massachusetts,United States,North America
+52,Woodburn,Oregon,United States,North America
+53,Bremerton,Washington,United States,North America
+54,Long Beach,California,United States,North America
+55,Glendale,California,United States,North America
+56,Novato,California,United States,North America
+57,Hamburg,Hamburg,Germany,Europe
+58,Eilenburg,Saxony,Germany,Europe
+59,Frankfurt,Hesse,Germany,Europe
+60,Paderborn,North Rhine-Westphalia,Germany,Europe
+61,Saarlouis,Saar,Germany,Europe
+62,Berlin,Berlin,Germany,Europe
+63,Offenbach am Main,Hesse,Germany,Europe
+64,Werne,North Rhine-Westphalia,Germany,Europe
+65,Dresden,Saxony,Germany,Europe
+66,Neunkirchen,North Rhine-Westphalia,Germany,Europe
+67,Bottrop,North Rhine-Westphalia,Germany,Europe
+68,Sulzbach Taunus,Saar,Germany,Europe
+69,Ingolstadt,Bavaria,Germany,Europe
+70,Darmstadt,Hesse,Germany,Europe
+71,Bonn,North Rhine-Westphalia,Germany,Europe
+72,Erlangen,Bavaria,Germany,Europe
+73,Renton,Washington,United States,North America
+74,Tacoma,Washington,United States,North America
+75,Corvallis,Oregon,United States,North America
+76,Lebanon,Oregon,United States,North America
+77,Portland,Oregon,United States,North America
+78,Lake Oswego,Oregon,United States,North America
+79,Puyallup,Washington,United States,North America
+80,Issaquah,Washington,United States,North America
+81,Salem,Oregon,United States,North America
+82,Kirkland,Washington,United States,North America
+83,Olympia,Washington,United States,North America
+84,Edmonds,Washington,United States,North America
+85,Cheyenne,Wyoming,United States,North America
+86,Sedro Woolley,Washington,United States,North America
+87,Milwaukie,Oregon,United States,North America
+88,Port Orchard,Washington,United States,North America
+89,Lynnwood,Washington,United States,North America
+90,Cincinnati,Ohio,United States,North America
+91,Citrus Heights,California,United States,North America
+92,Ballard,Washington,United States,North America
+93,Stuttgart,Baden-Wuerttemberg,Germany,Europe
+94,Hof,Bavaria,Germany,Europe
+95,Poing,Bavaria,Germany,Europe
+96,Hanover,Lower Saxony,Germany,Europe
+97,Solingen,North Rhine-Westphalia,Germany,Europe
+98,Dusseldorf,North Rhine-Westphalia,Germany,Europe
+99,Mühlheim am Main,Hesse,Germany,Europe
+100,Munster,North Rhine-Westphalia,Germany,Europe
+101,Essen,North Rhine-Westphalia,Germany,Europe
+102,Bell Gardens,California,United States,North America
+103,City Of Commerce,California,United States,North America
+104,Clackamas,Oregon,United States,North America
+105,Leipzig,Saxony,Germany,Europe
+106,Kassel,Hesse,Germany,Europe
+107,Munich,Bavaria,Germany,Europe
+108,Saarbrücken,Saar,Germany,Europe
+109,Salzgitter,Lower Saxony,Germany,Europe
+110,College Station,Texas,United States,North America
+111,Clay,New York,United States,North America
+112,Columbus,Georgia,United States,North America
+113,Kiel,Schleswig-Holstein,Germany,Europe
+114,Brunswick,Lower Saxony,Germany,Europe
+115,Bradenton,Florida,United States,North America
+116,Grevenbroich,North Rhine-Westphalia,Germany,Europe
+117,Bluffton,South Carolina,United States,North America
+118,Camarillo,California,United States,North America
+119,Carol Stream,Illinois,United States,North America
+120,Canoga Park,California,United States,North America
+121,Barstow,California,United States,North America
+122,Casper,Wyoming,United States,North America
+123,Cedar City,Utah,United States,North America
+124,Chandler,Arizona,United States,North America
+125,Central Valley,New York,United States,North America
+126,Bellevue,Washington,United States,North America
+127,Cheektowaga,New York,United States,North America
+128,Branch,Minnesota,United States,North America
+129,Campbellsville,Kentucky,United States,North America
+130,Carson,California,United States,North America
+131,Charlotte,North Carolina,United States,North America
+132,Albany,New York,United States,North America
+133,Columbus,Ohio,United States,North America
+134,Alexandria,Virginia,United States,North America
+135,Cedar Park,Texas,United States,North America
+136,Anchorage,Alaska,United States,North America
+137,Appleton,Wisconsin,United States,North America
+138,Arlington,Texas,United States,North America
+139,Aurora,Colorado,United States,North America
+140,Austin,Texas,United States,North America
+141,Baltimore,Maryland,United States,North America
+142,Bayonne,New Jersey,United States,North America
+143,Beaumont,Texas,United States,North America
+144,Berthoud,Colorado,United States,North America
+145,Bethesda,Maryland,United States,North America
+146,Annapolis,Maryland,United States,North America
+147,Boston,Massachusetts,United States,North America
+148,Billings,Montana,United States,North America
+149,Chantilly,Virginia,United States,North America
+150,Boulder,Colorado,United States,North America
+151,Brooklyn,New York,United States,North America
+152,Atlantic City,New Jersey,United States,North America
+153,Buffalo,New York,United States,North America
+154,Braintree,Massachusetts,United States,North America
+155,Attleboro,Massachusetts,United States,North America
+156,Cape May,New Jersey,United States,North America
+157,Bangor,Maine,United States,North America
+158,Bar Harbor,Maine,United States,North America
+159,Castle Rock,Colorado,United States,North America
+160,Charleston,South Carolina,United States,North America
+161,Charlottesville,Virginia,United States,North America
+162,Clearwater,Florida,United States,North America
+163,Cheney,Washington,United States,North America
+164,Cle Elum,Washington,United States,North America
+165,Dallas,Texas,United States,North America
+166,Darien,Connecticut,United States,North America
+167,Denton,Texas,United States,North America
+168,Burlington,Wisconsin,United States,North America
+169,Cape Canaveral,Florida,United States,North America
+170,Denver,Colorado,United States,North America
+171,Desoto,Texas,United States,North America
+172,East Orange,New Jersey,United States,North America
+173,East Troy,Wisconsin,United States,North America
+174,Edgerton,Wisconsin,United States,North America
+175,Englewood,Colorado,United States,North America
+176,Clifton,New Jersey,United States,North America
+177,Fall City,Washington,United States,North America
+178,Bothell,Washington,United States,North America
+179,Falmouth,Massachusetts,United States,North America
+180,Fond du Lac,Wisconsin,United States,North America
+181,Fort Atkinson,Wisconsin,United States,North America
+182,Fort Worth,Texas,United States,North America
+183,Fort Lauderdale,Florida,United States,North America
+184,Framingham,Massachusetts,United States,North America
+185,Fredericksburg,Virginia,United States,North America
+186,Georgetown,Texas,United States,North America
+187,Elmira,New York,United States,North America
+188,Germantown,Maryland,United States,North America
+189,Grand Prairie,Texas,United States,North America
+190,Granger,Washington,United States,North America
+191,Greeley,Colorado,United States,North America
+192,Green Bay,Wisconsin,United States,North America
+193,Greenville,South Carolina,United States,North America
+194,Beijing,Beijing,China,Asia
+195,Hartford,Connecticut,United States,North America
+196,Haverhill,Massachusetts,United States,North America
+197,Hillsboro,Texas,United States,North America
+198,Grand Junction,Colorado,United States,North America
+199,Hingham,Massachusetts,United States,North America
+200,Houston,Texas,United States,North America
+201,Howard,Maryland,United States,North America
+202,Humble,Texas,United States,North America
+203,Hackensack,New Jersey,United States,North America
+204,Ithaca,New York,United States,North America
+205,Koln,North Rhine-Westphalia,Germany,Europe
+206,Jacksonville,Florida,United States,North America
+207,Hoboken,New Jersey,United States,North America
+208,Jersey City,New Jersey,United States,North America
+209,Kennewick,Washington,United States,North America
+210,Holyoke,Massachusetts,United States,North America
+211,Key West,Florida,United States,North America
+212,La Porte,Texas,United States,North America
+213,Lafayette,Colorado,United States,North America
+214,Guangzhou,GuangDong,China,Asia
+215,Lakeland,Florida,United States,North America
+216,Lewiston,Maine,United States,North America
+217,Lewisville,Texas,United States,North America
+218,Longview,Texas,United States,North America
+219,Hong Kong,Hong Kong,China,Asia
+220,Loveland,Colorado,United States,North America
+221,Lowell,Massachusetts,United States,North America
+222,Lynn,Massachusetts,United States,North America
+223,Leominster,Massachusetts,United States,North America
+224,Madison,Wisconsin,United States,North America
+225,Manitowoc,Wisconsin,United States,North America
+226,Littleton,Colorado,United States,North America
+227,Marshall,Texas,United States,North America
+228,Martinsville,Virginia,United States,North America
+229,Menasha,Wisconsin,United States,North America
+230,Miami,Florida,United States,North America
+231,Midland,Texas,United States,North America
+232,Milliken,Colorado,United States,North America
+233,Minden,Texas,United States,North America
+234,Montclair,New Jersey,United States,North America
+235,Morristown,New Jersey,United States,North America
+236,Nantucket,Massachusetts,United States,North America
+237,Milwaukee,Wisconsin,United States,North America
+238,Naples,Florida,United States,North America
+239,New Bedford,Massachusetts,United States,North America
+240,New Brunswick,New Jersey,United States,North America
+241,New Castle,Colorado,United States,North America
+242,New Haven,Connecticut,United States,North America
+243,New London,Connecticut,United States,North America
+244,New York,New York,United States,North America
+245,Newark,New Jersey,United States,North America
+246,Norfolk,Virginia,United States,North America
+247,North Bend,Washington,United States,North America
+248,Northampton,Massachusetts,United States,North America
+249,Old Saybrook,Connecticut,United States,North America
+250,Orange,Texas,United States,North America
+251,Cerritos,California,United States,North America
+252,Oregon,Wisconsin,United States,North America
+253,Orono,Maine,United States,North America
+254,Orlando,Florida,United States,North America
+255,Carrollton,Texas,United States,North America
+256,Parker,Colorado,United States,North America
+257,Parkville,Maryland,United States,North America
+258,Oshkosh,Wisconsin,United States,North America
+259,Pasadena,Texas,United States,North America
+260,Paterson,New Jersey,United States,North America
+261,Pittsfield,Massachusetts,United States,North America
+262,Plano,Texas,United States,North America
+263,Passaic,New Jersey,United States,North America
+264,Plattsburgh,New York,United States,North America
+265,Poestenkill,New York,United States,North America
+266,Shanghai,Shanghai,China,Asia
+267,Oswego,New York,United States,North America
+268,Quincy,Massachusetts,United States,North America
+269,Racine,Wisconsin,United States,North America
+270,Port Washington,Wisconsin,United States,North America
+271,Provincetown,Massachusetts,United States,North America
+272,Ridgely,Maryland,United States,North America
+273,Roanoke,Virginia,United States,North America
+274,Richardson,Texas,United States,North America
+275,Rochester,New York,United States,North America
+276,Round Rock,Texas,United States,North America
+277,San Antonio,Texas,United States,North America
+278,Bountiful,Utah,United States,North America
+279,Russellville,Texas,United States,North America
+280,Sheboygan,Wisconsin,United States,North America
+281,Shreveport,Texas,United States,North America
+282,Byron,Georgia,United States,North America
+283,Sebring,Florida,United States,North America
+284,Sedalia,Colorado,United States,North America
+285,Snoqualmie,Washington,United States,North America
+286,Somerville,Massachusetts,United States,North America
+287,South Portland,Maine,United States,North America
+288,Spring,Texas,United States,North America
+289,Stoughton,Wisconsin,United States,North America
+290,Sunnyside,Washington,United States,North America
+291,Tallahassee,Florida,United States,North America
+292,Syracuse,New York,United States,North America
+293,Texas City,Texas,United States,North America
+294,Tampa,Florida,United States,North America
+295,Urumqi,Xinjiang,China,Asia
+296,Thornton,Colorado,United States,North America
+297,Toppenish,Washington,United States,North America
+298,Veradale,Washington,United States,North America
+299,Trenton,New Jersey,United States,North America
+300,Vineland,New Jersey,United States,North America
+301,Virginia Beach,Virginia,United States,North America
+302,Wapato,Washington,United States,North America
+303,Waterbury,Connecticut,United States,North America
+304,Waukesha,Wisconsin,United States,North America
+305,Wheat Ridge,Colorado,United States,North America
+306,Winchester,Virginia,United States,North America
+307,Unknown,Unknown,United States,North America
+308,Unknown,Unknown,Germany,Europe
+309,Unknown,Unknown,China,Asia
