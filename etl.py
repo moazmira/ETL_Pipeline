@@ -1,9 +1,4 @@
-# ============================================================
-#  ETL Pipeline — Sales & Forecast JSON → SQL Server
-#  Author  : Data Engineering Team
-#  Version : 1.0.0
-#  Schema  : Galaxy Schema (2 Facts, 4 Dims, 1 Date)
-# ============================================================
+
 
 import os
 import sys
@@ -12,20 +7,13 @@ import logging
 import traceback
 from datetime import datetime, date, timedelta
 from pathlib import Path
-
 import pandas as pd
 from dotenv import load_dotenv
 from sqlalchemy import create_engine, text, inspect
 from sqlalchemy.exc import SQLAlchemyError
 
 
-# ============================================================
-#  0. BOOTSTRAP — Load .env + configure logging
-# ============================================================
-
 load_dotenv()
-
-
 
 LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO").upper()
 
